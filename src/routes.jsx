@@ -1,5 +1,4 @@
 import App from "./App";
-import DefaultProfile from "./DefaultProfile";
 import ErrorPage from "./ErrorPage";
 import Profile from "./Profile";
 
